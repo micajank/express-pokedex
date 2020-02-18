@@ -1,0 +1,20 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+}
+
+.well {
+    text-align: center;
+    position: relative;
+}
+
+.btn-primary {
+    text-align: center;
+    position: relative;
+
+}
+
+div {
+    text-align: center;
+}
