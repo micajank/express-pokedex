@@ -2,19 +2,26 @@
     margin: 0 auto;
     padding: 0;
     text-align: center;
+    display: inline-block;
+
+    
 }
 
 .well {
     text-align: center;
+    display: inline-block;
+
     position: relative;
 }
 
 .btn-primary {
     text-align: center;
     position: relative;
+    display: inline-block;
 
 }
 
 div {
+    display: inline-block;
     text-align: center;
 }
